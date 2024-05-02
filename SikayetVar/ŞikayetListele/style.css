@@ -1,0 +1,39 @@
+body{
+    background-image: url(krem.jpg);
+}
+
+.sikayetkutusu{
+    margin: 10px;
+    padding: 100px;
+    border-radius: 35px;
+    color: black;
+    display: inline-table;
+    background-color: rgb(180,142, 128);
+    width: 30%;
+    height: 30%;
+    border: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+
+}
+
+.navbar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(180,142, 128);
+    color: rgb(5, 5, 5);
+    text-align: center;
+    border-radius: 25px;
+
+}
+
+#yazı:hover{
+    color: rgb(180,142, 128);
+    background-color: black;
+
+}
+
+.sikayetkutusu:hover{
+    color: rgb(180,142, 128);
+    background-color: black;
+}

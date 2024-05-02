@@ -1,0 +1,158 @@
+.material-symbols-outlined{
+    color:rgb(136, 98, 85);
+    float:left;
+    
+    
+    
+    
+}
+
+.anabaslik{
+    
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(136, 98, 85);
+    
+}
+.baslik{
+  margin: auto;
+  align-items: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+  margin-top: auto;
+  
+}
+.ekran{
+    background-color:rgb(136, 98, 85);
+    max-width: 200px;
+    width: 100%;
+    border-radius: 7px;
+    padding: 60px 80px;
+    
+    
+}
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
+}
+
+
+.kutu{
+   width: 50px;
+   height: 50px;
+}
+
+
+
+form input[type="email"] , form input[type="password"], form input[type="text"], form input[type="date"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    width: 180px;
+    height: 40px;
+    border: none;
+}
+form input[type="button"] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    height: 30px;
+    width: 180px;
+    background-color:rgb(136, 98, 85);
+    border: none;
+    
+    
+}
+
+form input[type="button"]:hover{
+    background-color: black;
+    transition: .5s;
+    border: none;
+    color: whitesmoke;
+    cursor: pointer;
+}
+form input[placeholder]{
+    text-align: center;
+}
+ .baslik{
+    color:black;
+    text-align: center;
+ }
+ .text{
+    color:black;
+    text-align: center;
+ }
+ .instagram{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: white;
+    height: 25px;
+    width: 180px;
+    text-decoration: none;
+    
+ }
+
+ .facebook{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: white;
+    height: 25px;
+    width: 180px;
+    
+    color: black;
+
+ }
+
+ .twitter{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: white;
+    height: 25px;
+    width: 180px;
+    text-decoration: none;
+ }
+
+ .instagram:hover{
+    background-color: rgb(136, 98, 85);
+    color:white
+ }
+
+ .facebook:hover{
+    background-color: rgb(136, 98, 85);
+    color:white
+ }
+
+ .twitter:hover{
+    background-color:rgb(136, 98, 85);
+    color:white
+ }
+ body{
+    background-image: url(krem.jpg);
+ }
+
+ #insta{
+   color: rgb(130, 42, 168);
+ }
+
+ #face{
+   color: rgb(8, 8, 167);
+ }
+
+ #twit{
+   color: rgb(41, 162, 237);
+ }
+
+ #siyah{
+   color: black;
+ }
